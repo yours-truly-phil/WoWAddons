@@ -1,0 +1,8 @@
+## Interface: 120005, 120007
+## Title: InRangeSquare
+## Notes: Bright green square = in melee range, bright red = out of range. Much more reliable for Survival Hunter (handles Raptor Strike / Mongoose Bite / Raptor Swipe transformations + transient API nils). Position over your character. Toggle with /irs.
+## Author: Grok (based on MeleeRangeIndicator logic)
+## Version: 2.2
+## SavedVariables: InRangeSquareDB
+
+InRangeSquare.lua
